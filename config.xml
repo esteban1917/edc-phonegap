@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.tinta_roja.escueladecuadros"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>Escuela de Cuadros</name>
 
     <description>
-        Moodle Mobile official app
+        Escuela de Cuadros Rosendo Garcia M
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://tinta-roja.com" email="pcr.bolivia@gmail.com">
+        PCR Bolivia
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
